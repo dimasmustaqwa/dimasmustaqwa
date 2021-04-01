@@ -22,4 +22,4 @@ nice to meet you
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmustaqwa&layout=compact&count_private=true)
 
 
-![image](https://github.com/dimasmustaqwa/dimasmustaqwa/blob/master/loading1-100.gif)
+** ![image](https://github.com/dimasmustaqwa/dimasmustaqwa/blob/master/loading1-100.gif)
